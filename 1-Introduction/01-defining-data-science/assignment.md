@@ -20,12 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Partizipation | Monitoring and analysing addendance at city and local councils meeting | Addendance lists of city and local council meetings | Excel | Gaining insights into partizipation into local politics. Questioning if the meetings times, format (in-person /hybrid) and locations should be changed |
+| Bike traffic | | | | |
+| Local Budgeting | | | | |
 
-## Rubric
-
-Exemplary | Adequate | Needs Improvement
---- | --- | -- |
-One was able to identify reasonable data sources, ways of storing data and possible decisions/insights for all problem domains | Some of the aspects of the solution are not detailed, data storage is not discussed, at least 2 problem domains are described | Only parts of the data solution are described, only one problem domain is considered.
