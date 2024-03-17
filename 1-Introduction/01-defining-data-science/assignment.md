@@ -21,6 +21,6 @@ Fill in the following table (substitute suggested problem domains for your own o
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
 | Partizipation | Monitoring and analysing addendance at city and local councils meeting | Addendance lists of city and local council meetings | Excel | Gaining insights into partizipation into local politics. Questioning if the meetings times, format (in-person /hybrid) and locations should be changed |
-| Bike traffic | | | | |
-| Local Budgeting | | | | |
+| Bike traffic |Roads bicyclists are taking. To make bike rides more save. |Traffic data via cameras on roads. Survey. |csv files | Which ways are used by cyclists. |
+| Local Budgeting |What projects and areas are profiting from local budgeting|Analysis on approved local Budgeting applications |xlsx file |Is it a good mix on approved projects? Are there areas that not get funding? |
 
